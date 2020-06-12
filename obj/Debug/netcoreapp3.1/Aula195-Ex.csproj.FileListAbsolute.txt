@@ -1,0 +1,13 @@
+/home/glauber/Documentos/Projetos C#/UDEMY/Aula195-Ex/bin/Debug/netcoreapp3.1/Aula195-Ex
+/home/glauber/Documentos/Projetos C#/UDEMY/Aula195-Ex/bin/Debug/netcoreapp3.1/Aula195-Ex.deps.json
+/home/glauber/Documentos/Projetos C#/UDEMY/Aula195-Ex/bin/Debug/netcoreapp3.1/Aula195-Ex.runtimeconfig.json
+/home/glauber/Documentos/Projetos C#/UDEMY/Aula195-Ex/bin/Debug/netcoreapp3.1/Aula195-Ex.runtimeconfig.dev.json
+/home/glauber/Documentos/Projetos C#/UDEMY/Aula195-Ex/bin/Debug/netcoreapp3.1/Aula195-Ex.dll
+/home/glauber/Documentos/Projetos C#/UDEMY/Aula195-Ex/bin/Debug/netcoreapp3.1/Aula195-Ex.pdb
+/home/glauber/Documentos/Projetos C#/UDEMY/Aula195-Ex/obj/Debug/netcoreapp3.1/Aula195-Ex.csprojAssemblyReference.cache
+/home/glauber/Documentos/Projetos C#/UDEMY/Aula195-Ex/obj/Debug/netcoreapp3.1/Aula195-Ex.csproj.CoreCompileInputs.cache
+/home/glauber/Documentos/Projetos C#/UDEMY/Aula195-Ex/obj/Debug/netcoreapp3.1/Aula195-Ex.AssemblyInfoInputs.cache
+/home/glauber/Documentos/Projetos C#/UDEMY/Aula195-Ex/obj/Debug/netcoreapp3.1/Aula195-Ex.AssemblyInfo.cs
+/home/glauber/Documentos/Projetos C#/UDEMY/Aula195-Ex/obj/Debug/netcoreapp3.1/Aula195-Ex.dll
+/home/glauber/Documentos/Projetos C#/UDEMY/Aula195-Ex/obj/Debug/netcoreapp3.1/Aula195-Ex.pdb
+/home/glauber/Documentos/Projetos C#/UDEMY/Aula195-Ex/obj/Debug/netcoreapp3.1/Aula195-Ex.genruntimeconfig.cache
